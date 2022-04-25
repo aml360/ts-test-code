@@ -1,0 +1,2672 @@
+[
+  {
+    "Sku": "AEF2212 A743480150606",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A743680021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A743880021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A744982191888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 6
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A745082171264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A745882211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 9
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A746982081033",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A752780011888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 12
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A752980016001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 14
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753080012888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 10
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753180020031",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753180020164",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753180020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753582221224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753682231007",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 11
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753880021264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753880021335",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753980021224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A753980021333",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754080020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 7
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754080020264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 1
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754080020333",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754080021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 9
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754680081335",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 6
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754680082001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A754980022224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755080020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755180021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755280080001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755280080224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755380080293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 6
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755380080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755680080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755980140033",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A755980140264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A756280140001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A756480130001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A756580130293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A756780130293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 8
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A756880130001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A757180150606",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A757282171164",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A757382171888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A757680080224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A757680080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A757980061224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A758080061224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 4
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A758380081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 9
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A759180241264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A759280251224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A759280251332",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A759580261888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 3
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A761882071264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 5
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A761982211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 9
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A792983061555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A804480140033",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 1
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 2
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 2
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 2
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A804480140264",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 2
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 2
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 2
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 2
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A805580060224",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 2
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 2
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 2
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 2
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 1
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A805682221224",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 2
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 3
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 3
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 3
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A805780081085",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 2
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 2
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 2
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 2
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A805880081335",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 2
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 2
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 2
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 2
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A805880082555",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 2
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 2
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 2
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 2
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 2
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 2
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A815480081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 8
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A842782211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 10
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A843480081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 10
+      }
+    ],
+    "StoreCode": "L002"
+  },
+  {
+    "Sku": "AEF2212 A743480150606",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A743680021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A743880021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A744982191888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A745082171264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A745882211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A746982081033",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A752780011888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A752980016001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753080012888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753180020031",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753180020164",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753180020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753582221224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753682231007",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753880021264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753880021335",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753980021224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A753980021333",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754080020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754080020264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754080020333",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754080021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754680081335",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754680082001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A754980022224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755080020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755180021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755280080001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755280080224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755380080293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755380080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755680080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755980140033",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A755980140264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A756280140001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A756480130001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A756580130293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A756780130293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A756880130001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A757180150606",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A757282171164",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A757382171888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A757680080224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A757680080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A757980061224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A758080061224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A758380081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A759180241264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A759280251224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A759280251332",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A759580261888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A761882071264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A761982211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A792983061555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A804480140033",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A804480140264",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A805580060224",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A805682221224",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A805780081085",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A805880081335",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A805880082555",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A815480081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A842782211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A843480081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L001"
+  },
+  {
+    "Sku": "AEF2212 A743480150606",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A743680021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A743880021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A744982191888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A745082171264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A745882211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A746982081033",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A752780011888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A752980016001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753080012888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753180020031",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753180020164",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753180020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753582221224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753682231007",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753880021264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753880021335",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753980021224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A753980021333",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754080020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754080020264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754080020333",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754080021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754680081335",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754680082001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A754980022224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755080020224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755180021555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755280080001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755280080224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755380080293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755380080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755680080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755980140033",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A755980140264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A756280140001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A756480130001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A756580130293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A756780130293",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A756880130001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A757180150606",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A757282171164",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A757382171888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A757680080224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A757680080555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A757980061224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A758080061224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A758380081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A759180241264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A759280251224",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A759280251332",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A759580261888",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A761882071264",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A761982211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A792983061555",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A804480140033",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A804480140264",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A805580060224",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A805682221224",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A805780081085",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A805880081335",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A805880082555",
+    "Sizes": [
+      {
+        "Tag": "38    ",
+        "SizeIndex": 1,
+        "Qty": 0
+      },
+      {
+        "Tag": "40    ",
+        "SizeIndex": 2,
+        "Qty": 0
+      },
+      {
+        "Tag": "42    ",
+        "SizeIndex": 3,
+        "Qty": 0
+      },
+      {
+        "Tag": "44    ",
+        "SizeIndex": 4,
+        "Qty": 0
+      },
+      {
+        "Tag": "46    ",
+        "SizeIndex": 5,
+        "Qty": 0
+      },
+      {
+        "Tag": "48    ",
+        "SizeIndex": 6,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A815480081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A842782211001",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  },
+  {
+    "Sku": "AEF2212 A843480081085",
+    "Sizes": [
+      {
+        "Tag": "U     ",
+        "SizeIndex": 1,
+        "Qty": 0
+      }
+    ],
+    "StoreCode": "L003"
+  }
+]
